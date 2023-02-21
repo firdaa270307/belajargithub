@@ -1,5 +1,6 @@
 <?php
-echo "Selamat Belajar Github";
-echo "Kelas X RPL1";
+
+echo "SMEXA X RPL1";
+echo "Semangat Belajar Coding"
 
 ?>
